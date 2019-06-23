@@ -1,6 +1,6 @@
 # Metal Gear Solid (MGS) code name generator
 
-Generates fun codenames in the style of `<adjective/verb> <animal>`
+Generates fun codenames in the style of `<adjective> <animal>`
 
 ```
 CONDEMNED DUCK
