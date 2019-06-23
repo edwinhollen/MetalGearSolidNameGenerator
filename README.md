@@ -14,7 +14,7 @@ FORMLESS OSTRICH
 
 1. `git clone https://github.com/edwinhollen/MetalGearSolidNameGenerator.git`
 
-2. `cd MetalGearSolidNameGenerator'
+2. `cd ./MetalGearSolidNameGenerator`
 
 3. `npm install`
 
