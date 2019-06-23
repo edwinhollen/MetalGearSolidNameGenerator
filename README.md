@@ -22,8 +22,8 @@ FORMLESS OSTRICH
 
 **Generate multiple names (for example, 100 names):**
 
-	`node ./index.js 100`
+`node ./index.js 100`
 
 
-	*Licensed under GNU General Public License v3.0*
+*Licensed under GNU General Public License v3.0*
 
